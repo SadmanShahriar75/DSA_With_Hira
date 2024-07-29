@@ -22,4 +22,4 @@ class Solution:
 
 s = "{}"
 now = Solution()
-print("ok", now.isValid(s))
+print(now.isValid(s))
