@@ -13,7 +13,6 @@ def sum_N(N):
         s = s + i
     return s
 
-
 # fun 1
 total =  sumAll()
 print("sum of all element", total)
